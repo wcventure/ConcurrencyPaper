@@ -7,7 +7,7 @@
     - [Maximal Sound Predictive Race Detection with Control Flow Abstraction (PLDI 2014)](http://fsl.cs.illinois.edu/FSL/papers/2014/huang-meredith-rosu-2014-pldi/huang-meredith-rosu-2014-pldi-public.pdf)
 
 - **Verification**
-    - [Armada: Low-Effort Verification of High-Performance Concurrent Programs (PLDI 2020)]()
+    - [Armada: Low-Effort Verification of High-Performance Concurrent Programs (PLDI 2020)](https://www.microsoft.com/en-us/research/uploads/prod/2020/06/armada.pdf)
     - [Inductive Data FLow Graph (POPL 2013)](https://www.cs.princeton.edu/~zkincaid/pub/popl13.pdf)
 
 - **Dynamic Detector/Sanitizer**
