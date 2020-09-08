@@ -22,7 +22,7 @@
     - [A Heuristic Framework to Detect Concurrency Vulnerabilities (ACSAC 2018)](https://dl.acm.org/doi/pdf/10.1145/3274694.3274718?download=true)
   
 - **Dynamic Testing** 
-	- [Efficient Scalable Thread-Safety-Violation Detection](https://www.microsoft.com/en-us/research/uploads/prod/2019/09/sosp19-final193.pdf)
+	- [Efficient Scalable Thread-Safety-Violation Detection (SOSP 2019)](https://www.microsoft.com/en-us/research/uploads/prod/2019/09/sosp19-final193.pdf)
  
 - **Dubugging**
     - [D4: Fast Concurrency Debugging with Parallel Differential Analysis (PLDI 2018)](https://parasol.tamu.edu/people/jeff/academic/d4.pdf)
