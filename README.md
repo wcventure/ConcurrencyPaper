@@ -4,7 +4,7 @@
     - [A systematic survey on automated concurrency bug detection, exposing, avoidance, and fixing techniques (SQJ 2018)](https://dl.acm.org/doi/10.1007/s11219-017-9385-3)
     - [Surveying concurrency bug detectors based on types of detected bugs (2017)](http://scis.scichina.com/en/2017/031101.pdf)
     - [A survey of race bug detection techniques for multithreaded programmes (2014)](https://onlinelibrary.wiley.com/doi/abs/10.1002/stvr.1564)
-    - [Learning from Mistakes: A Comprehensive Study on Real World Concurrency Bug Characteristics (ASPLOS 2008)](https://www.cs.columbia.edu/~junfeng/09fa-e6998/papers/concurrency-bugs.pdf)
+    - [Learning from Mistates: A Comprehensive Study on Real World Concurrency Bug Characteristics (ASPLOS 2008)](https://www.cs.columbia.edu/~junfeng/09fa-e6998/papers/concurrency-bugs.pdf)
     - [Understanding, Detecting and Exposing Concurrency Bugs (2003)](https://core.ac.uk/download/pdf/4820747.pdf)
 
 - **Maximal Causality Reduction**
