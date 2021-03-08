@@ -1,12 +1,13 @@
 # Concurrency Paper
 
 - **Survey/Review**
+    - [Understanding Real-World Concurrency Bugs in Go (ASPLOS 2019)](https://songlh.github.io/paper/go-study.pdf)
     - [A systematic survey on automated concurrency bug detection, exposing, avoidance, and fixing techniques (SQJ 2018)](https://dl.acm.org/doi/10.1007/s11219-017-9385-3)
     - [Surveying concurrency bug detectors based on types of detected bugs (2017)](http://scis.scichina.com/en/2017/031101.pdf)
     - [A survey of race bug detection techniques for multithreaded programmes (2014)](https://onlinelibrary.wiley.com/doi/abs/10.1002/stvr.1564)
     - [Learning from Mistates: A Comprehensive Study on Real World Concurrency Bug Characteristics (ASPLOS 2008)](https://www.cs.columbia.edu/~junfeng/09fa-e6998/papers/concurrency-bugs.pdf)
     - [Understanding, Detecting and Exposing Concurrency Bugs (2003)](https://core.ac.uk/download/pdf/4820747.pdf)
-
+    
 - **Maximal Causality Reduction**
     - [Speeding Up Maximal Causality Reduction with Static Dependency Analysis (ECOOP 2017)](https://huangshiyou.github.io/files/Huang-ECOOP-2017-16.pdf)
     - [Maximal Causality Reduction for TSO and PSO (OOPSLA 2016)](https://huangshiyou.github.io/files/mcr_relax-huang.pdf)
@@ -14,11 +15,13 @@
     - [Maximal Sound Predictive Race Detection with Control Flow Abstraction (PLDI 2014)](http://fsl.cs.illinois.edu/FSL/papers/2014/huang-meredith-rosu-2014-pldi/huang-meredith-rosu-2014-pldi-public.pdf)
 
 - **Verification**
+    - [Compositional Non-Interference for Fine-Grained Concurrent Programs (S&P 2021)](https://arxiv.org/abs/1910.00905)
     - [Armada: Low-Effort Verification of High-Performance Concurrent Programs (PLDI 2020)](https://www.microsoft.com/en-us/research/uploads/prod/2020/06/armada.pdf)
     - [Finding rare concurrent programming bugs:: An automatic, symbolic, randomized, and parallelizable approach (ICTAC2018)](https://eprints.soton.ac.uk/425836/)
     - [A Runtime Verification Tool for Detecting Concurrency Bugs in FreeRTOS Embedded Software (ISPDC 2018))](https://ieeexplore.ieee.org/document/8452035)
     - [Parallel Bug-finding in Concurrent Programs via Reduced Interleaving Instances (ASE 2017)](https://eprints.soton.ac.uk/413917/1/swarm_ASE2017.pdf)
     - [Inductive Data FLow Graph (POPL 2013)](https://www.cs.princeton.edu/~zkincaid/pub/popl13.pdf)
+    - [Inspect: A Runtime Model Checker For Mulithreaded C Programs (2008)](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.142.6260)
 
 - **Static Analysis/Detector**
     - [SmartTrack: Efficient Predictive Race Detection (PLDI 2020)](https://arxiv.org/pdf/1905.00494.pdf)
@@ -46,6 +49,12 @@
 	- [Effective Testing for Concurrency Bugs (Thesis)](https://www.mpi-sws.org/tr/2015-004.pdf)
 	- [Concurrency: Testing isn’t good enough](http://www.contemplateltd.com/threadsafe/concurrency-testing-isnt-good-enough)
  
-- **Dubugging**
+- **Reproducing/Dubugging**
     - [D4: Fast Concurrency Debugging with Parallel Differential Analysis (PLDI 2018)](https://parasol.tamu.edu/people/jeff/academic/d4.pdf)
-    
+    - [CONCURRIT: A Domain Specific Language for Reproducing Concurrency Bugs (PLDI 2013)](https://people.eecs.berkeley.edu/~ksen/papers/concurrit.pdf) -[[Source]](https://code.google.com/archive/p/concurrit/)
+
+- **Benchmark**
+    - [Concurrency Testing Using Schedule Bounding: an Empirical Study (SCTBench) (PPoPP 2014)](https://www.doc.ic.ac.uk/~afd/homepages/papers/pdfs/2014/PPoPP.pdf) -[[Source]](https://github.com/mc-imperial/sctbench)
+    - [RADBench: A Concurrency Bug Benchmark Suite (USENIX HotPar 2011)](https://www.usenix.org/legacy/event/hotpar11/tech/final_files/Jalbert.pdf)
+    - [Bugbench: Benchmarks for Evaluating Bug Detection Tools](https://github.com/lihebi/bugbench) -[[Source]](https://github.com/lihebi/bugbench)
+    - [A Case for an Interleaving Constrained Shared-Memory Multi-Processor](http://web.eecs.umich.edu/~nsatish/papers/ISCA-09-CPC.pdf) -[[Source]](https://github.com/jieyu/concurrency-bugs)
