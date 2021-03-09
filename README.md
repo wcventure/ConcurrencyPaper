@@ -55,6 +55,7 @@
 	- [Efficient Scalable Thread-Safety-Violation Detection (SOSP 2019)](https://www.microsoft.com/en-us/research/uploads/prod/2019/09/sosp19-final193.pdf)
 	- [*Adaptive Randomized Scheduling for Concurrency Bug Detection (ICECCS 2019) (JAVA)](https://ieeexplore.ieee.org/abstract/document/8882777)
 	- [Partial Order Aware Concurrency Sampling (CAV 2018)](https://link.springer.com/chapter/10.1007%2F978-3-319-96142-2_20)
+	- [Efficient Detection of Thread Safety Violations via Coverage-Guided Generation of Concurrent Tests (ICSE 2017) (JAVA)](https://ieeexplore.ieee.org/document/7985668)
 	- [SKI: Exposing Kernel Concurrency Bugs through Systematic Schedule Exploration (OSDI 2014)](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-fonseca.pdf)
 	- [Concurrency Testing Using Schedule Bounding: an Empirical Study (SCTBench) (PPoPP 2014)](https://www.doc.ic.ac.uk/~afd/homepages/papers/pdfs/2014/PPoPP.pdf) 
 	- [Efficient Concurrency-Bug Detection Across Inputs (OOPSLA 2013)](https://dl.acm.org/doi/10.1145/2544173.2509539)
