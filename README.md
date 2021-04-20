@@ -61,6 +61,7 @@
 	- [Efficient Concurrency-Bug Detection Across Inputs (OOPSLA 2013)](https://dl.acm.org/doi/10.1145/2544173.2509539)
 	- [*Multicore Acceleration of Priority-Based Schedulers for Concurrency Bug Detection (PLDI 2012)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/pldi12_needlepoint.pdf) -[[Slides]](https://www.cs.rutgers.edu/~santosh.nagarakatte/papers/PLDI2012-needlepoint-web.pdf)
 	- [A Randomized Scheduler with Probabilistic Guarantees of Finding Bugs (ASPLOS 2010)](https://dl.acm.org/doi/pdf/10.1145/1736020.1736040)
+	- [Finding and Reproducing Heisenbugs in Concurrent Programs (OSDI 2008)](https://www.usenix.org/legacy/events/osdi08/tech/full_papers/musuvathi/musuvathi.pdf) -[[Slides]](https://nebelwelt.net/teaching/15-510-SE/slides/16-testing3-chess.pdf)
 	- [ConMem: Detecting Severe Concurrency Bugs through an Effect-Oriented Approach](http://pages.cs.wisc.edu/~shanlu/paper/asplos184-zhang.pdf)
 	- [Effective Testing for Concurrency Bugs (Thesis)](https://www.mpi-sws.org/tr/2015-004.pdf)
 	- [Concurrency: Testing isn’t good enough](http://www.contemplateltd.com/threadsafe/concurrency-testing-isnt-good-enough)
