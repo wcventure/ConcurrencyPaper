@@ -27,6 +27,7 @@
     - [Inspect: A Runtime Model Checker For Mulithreaded C Programs (2008)](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.142.6260)
 
 - **Static Analysis/Detector**
+    - [Canary: Practical Static Detection of Inter-Thread Value-Flow Bugs (PLDI 2021)](https://pldi21.sigplan.org/details/pldi-2021-papers/74/Canary-Practical-Static-Detection-of-Inter-Thread-Value-Flow-Bugs)
     - [SmartTrack: Efficient Predictive Race Detection (PLDI 2020)](https://arxiv.org/pdf/1905.00494.pdf)
     - [Low-overhead deadlock prediction (ICSE 2021)](https://dl.acm.org/doi/10.1145/3377811.3380367)
     - [A True Positives Theorem for a Static Race Detector Extended Version (POPL 2019)](https://arxiv.org/pdf/1811.03503.pdf)
@@ -70,6 +71,8 @@
 - **Reproducing/Dubugging**
     - [D4: Fast Concurrency Debugging with Parallel Differential Analysis (PLDI 2018)](https://parasol.tamu.edu/people/jeff/academic/d4.pdf)
     - [CONCURRIT: A Domain Specific Language for Reproducing Concurrency Bugs (PLDI 2013)](https://people.eecs.berkeley.edu/~ksen/papers/concurrit.pdf) -[[Source]](https://code.google.com/archive/p/concurrit/)
+    - [](https://elinux.org/images/f/fe/Using_SCHED_DEADLINE.pdf)
+ 
 
 - **Benchmark**
     - [Concurrency testing using controlled schedulers: An empirical study (TOPC 2016)](https://dl.acm.org/doi/pdf/10.1145/2858651?casa_token=k7L1hBjlQeUAAAAA:6ZqKKosLEax0SKgNvKUiDLWRPO3e2ExV4FakJs9s5ohhIMXxtgyOMce17A-KUh3cHrcRe2UXl_Is) -[[Source]](https://github.com/mc-imperial/sctbench)
