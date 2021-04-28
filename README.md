@@ -38,7 +38,7 @@
 
 - **Dynamic Detector/Sanitizer**
     - [Dynamic Analysis Method for Concurrency Bugs in Multi-process/Multi-thread Environments (IJPP 2020)](https://www.x-mol.com/paperRedirect/1265038487945584640)
-    - [Detecting Concurrency Memory Corruption Vulnerabilities (FSE 2019)](https://dl.acm.org/doi/pdf/10.1145/3338906.3338927?download=true)
+    - [Detecting Concurrency Memory Corruption Vulnerabilities (FSE 2019)](https://dl.acm.org/doi/pdf/10.1145/3338906.3338927?casa_token=YaRTBaDFjIcAAAAA:cleie20s_BgSGjRMgaNdupMwB0p9kOfIG5Nde8kgAKluEuO8LPMKs9GlYBhwK6V6PenTttAeilXmQw)
     - [UFO: Predictive Concurrency Use-After-Free Detection (ICSE 2018)](http://acm.mementodepot.org/pubs/proceedings/acmconferences_3180155/3180155/3180155.3180225/3180155.3180225.pdf)
     - [Finding Complex Concurrency Bugs in Large Multi-Threaded Applications (EuroSys 2011)](https://www.gsd.inesc-id.pt/~rodrigo/pike_eurosys11.pdf)
     - [ThreadSanitizer – data race detection in practice (2009)](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/35604.pdf)
@@ -71,8 +71,7 @@
 - **Reproducing/Dubugging**
     - [D4: Fast Concurrency Debugging with Parallel Differential Analysis (PLDI 2018)](https://parasol.tamu.edu/people/jeff/academic/d4.pdf)
     - [CONCURRIT: A Domain Specific Language for Reproducing Concurrency Bugs (PLDI 2013)](https://people.eecs.berkeley.edu/~ksen/papers/concurrit.pdf) -[[Source]](https://code.google.com/archive/p/concurrit/)
-    - [](https://elinux.org/images/f/fe/Using_SCHED_DEADLINE.pdf)
- 
+    - [Using_SCHED_DEADLINE](https://elinux.org/images/f/fe/Using_SCHED_DEADLINE.pdf)
 
 - **Benchmark**
     - [Concurrency testing using controlled schedulers: An empirical study (TOPC 2016)](https://dl.acm.org/doi/pdf/10.1145/2858651?casa_token=k7L1hBjlQeUAAAAA:6ZqKKosLEax0SKgNvKUiDLWRPO3e2ExV4FakJs9s5ohhIMXxtgyOMce17A-KUh3cHrcRe2UXl_Is) -[[Source]](https://github.com/mc-imperial/sctbench)
