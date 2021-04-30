@@ -76,11 +76,13 @@
 
 - **Static Analysis/Detector**
     - [Canary: Practical Static Detection of Inter-Thread Value-Flow Bugs (PLDI 2021)](https://pldi21.sigplan.org/details/pldi-2021-papers/74/Canary-Practical-Static-Detection-of-Inter-Thread-Value-Flow-Bugs)
+    - [Low-overhead deadlock prediction (ICSE 2021)](https://dl.acm.org/doi/10.1145/3377811.3380367)
+    - [Detection of Concurrency Errors in Multithreaded Applications Based on Static Source Code Analysis (Access 2021)](https://ieeexplore.ieee.org/document/9406024)
     - [PASAN: Detecting Peripheral Access Concurrency Bugs within Bare-Metal Embedded Applications (Usenix Sec 2020)](https://www.usenix.org/conference/usenixsecurity21/presentation/kim)
     - [Understanding Memory and Thread Safety Practices and Issues in Real-World Rust Programs (PLDI 2020)](https://pldi20.sigplan.org/details/pldi-2020-papers/76/Understanding-Memory-and-Thread-Safety-Practices-and-Issues-in-Real-World-Rust-Progra)
     - [SmartTrack: Efficient Predictive Race Detection (PLDI 2020)](https://arxiv.org/pdf/1905.00494.pdf)
-    - [Low-overhead deadlock prediction (ICSE 2021)](https://dl.acm.org/doi/10.1145/3377811.3380367)
     - [A True Positives Theorem for a Static Race Detector Extended Version (POPL 2019)](https://arxiv.org/pdf/1811.03503.pdf)
+    - [Effective Static Analysis of Concurrency Use-After-Free Bugs in Linux Device Drivers (Usenix Sec 2019)](https://www.usenix.org/system/files/atc19-bai.pdf)
     - [ConPredictor: Concurrency Defect Prediction in Real-World Applications (TSE 2018)](https://arxiv.org/pdf/1804.03589.pdf)
     - [RacerD: Compositional Static Race Detection (OOPSLA 2018)](https://ilyasergey.net/papers/racerd-oopsla18-preprint.pdf)
     - [OWL: Understanding and Detecting Concurrency Attacks (DSN 2018)](http://www.cs.columbia.edu/~junfeng/papers/owl-dsn18.pdf)
