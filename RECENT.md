@@ -18,6 +18,7 @@
 - [**AggrePlay: efficient record and replay of multi-threaded programs (ESEC/FSE 2019)**](https://dl.acm.org/doi/pdf/10.1145/3338906.3338959?casa_token=yUdftU3f9lsAAAAA:EZwKgJXupcwUN24ZPx4du8WQs0AwDJmU22etruM6BHmhJLG11LYdQ_4T68vRd3P9aeQ1L7ObLOVB_g)
 - Compositional Non-Interference for Fine-Grained Concurrent Programs (S&P 2021)
 - [**Krace: Data Race Fuzzing for Kernel File Systems (S&P 2020)**](https://www.cc.gatech.edu/~mxu80/pubs/xu:krace.pdf)
+- ExpRace: Exploiting Kernel Races through Raising Interrupts (Usenix Sec 2021)
 - Timeless Timing Attacks: Exploiting Concurrency to Leak Secrets over Remote Connections (Usenix Sec 2020)
 - [**Muzz: Thread-aware Grey-box Fuzzing for Effective Bug Hunting in Multithreaded Programs (Usenix Sec 2020)**](https://www.usenix.org/system/files/sec20-chen-hongxu.pdf)
 - [**PASAN: Detecting Peripheral Access Concurrency Bugs within Bare-Metal Embedded Applications (Usenix Sec 2020)**](https://www.usenix.org/conference/usenixsecurity21/presentation/kim)
