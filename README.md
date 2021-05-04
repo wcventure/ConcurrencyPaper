@@ -13,7 +13,7 @@
 - [Context-Bounded Verification of Liveness Properties for Multithreaded Shared-Memory Programs (POPL 2021)](http://ramanathan.ts.gitlab.io/html-webpage/publications/POPL2021withAppendix.pdf)
 - [On Algebraic Abstractions for Concurrent Separation Logics (POPL 2021)](https://software.imdea.org/~aleks/popl21/popl21.pdf)
 - [A True Positives Theorem for a Static Race Detector Extended Version (POPL 2019)](https://arxiv.org/pdf/1811.03503.pdf)
-- [Low-overhead deadlock prediction (ICSE 2021)](https://dl.acm.org/doi/10.1145/3377811.3380367)
+- [Low-overhead deadlock prediction (ICSE 2020)](https://dl.acm.org/doi/10.1145/3377811.3380367)
 - [Parallel Refinement for Multi-Threaded Program Verification (ICSE 2019)](https://2019.icse-conferences.org/details/icse-2019-Technical-Papers/44/Parallel-Refinement-for-Multi-Threaded-Program-Verification)
 - [Towards Generating Thread-Safe Classes Automatically (ASE 2020)](https://conf.researchr.org/details/ase-2020/ase-2020-papers/70/Towards-Generating-Thread-Safe-Classes-Automatically)
 - [Efficient Transaction-Based Deterministic Replay for Multi-threaded Programs (ASE 2019)](https://www.cs.cityu.edu.hk/~wkchan/papers/ase19-pobee+mei+chan.pdf)
@@ -76,7 +76,7 @@
 
 - **Static Analysis/Detector**
     - [Canary: Practical Static Detection of Inter-Thread Value-Flow Bugs (PLDI 2021)](https://pldi21.sigplan.org/details/pldi-2021-papers/74/Canary-Practical-Static-Detection-of-Inter-Thread-Value-Flow-Bugs)
-    - [Low-overhead deadlock prediction (ICSE 2021)](https://dl.acm.org/doi/10.1145/3377811.3380367)
+    - [Low-overhead deadlock prediction (ICSE 2020)](https://dl.acm.org/doi/10.1145/3377811.3380367)
     - [Detection of Concurrency Errors in Multithreaded Applications Based on Static Source Code Analysis (Access 2021)](https://ieeexplore.ieee.org/document/9406024)
     - [PASAN: Detecting Peripheral Access Concurrency Bugs within Bare-Metal Embedded Applications (Usenix Sec 2020)](https://www.usenix.org/conference/usenixsecurity21/presentation/kim)
     - [Understanding Memory and Thread Safety Practices and Issues in Real-World Rust Programs (PLDI 2020)](https://pldi20.sigplan.org/details/pldi-2020-papers/76/Understanding-Memory-and-Thread-Safety-Practices-and-Issues-in-Real-World-Rust-Progra)

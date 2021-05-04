@@ -9,7 +9,7 @@
 - Context-Bounded Verification of Liveness Properties for Multithreaded Shared-Memory Programs (POPL 2021)
 - On Algebraic Abstractions for Concurrent Separation Logics (POPL 2021)
 - A True Positives Theorem for a Static Race Detector Extended Version (POPL 2019)
-- [**Low-overhead deadlock prediction (ICSE 2021)**](https://dl.acm.org/doi/10.1145/3377811.3380367)
+- [**Low-overhead deadlock prediction (ICSE 2020)**](https://dl.acm.org/doi/10.1145/3377811.3380367)
 - Parallel Refinement for Multi-Threaded Program Verification (ICSE 2019)
 - Towards Generating Thread-Safe Classes Automatically (ASE 2020)
 - [**Efficient Transaction-Based Deterministic Replay for Multi-threaded Programs (ASE 2019)**](https://www.cs.cityu.edu.hk/~wkchan/papers/ase19-pobee+mei+chan.pdf)
