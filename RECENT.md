@@ -15,7 +15,7 @@
 - [**Efficient Transaction-Based Deterministic Replay for Multi-threaded Programs (ASE 2019)**](https://www.cs.cityu.edu.hk/~wkchan/papers/ase19-pobee+mei+chan.pdf)
 - Calm Energy Accounting for Multithreaded Java Applications (ESEC/FSE 2020)
 - [**Detecting concurrency memory corruption vulnerabilities (ESEC/FSE 2019)**](https://dl.acm.org/doi/pdf/10.1145/3338906.3338927?casa_token=N79HcfKSbQgAAAAA:AcSQa7uBJvN6Z_K6gOJgvxw-jwQn6RElJnFXwhtFqM8odnewpV-8rP321dvhPUvgpn-XL3wzg0kcDw)
-- [**AggrePlay: efficient record and replay of multi-threaded programs (ESEC/FSE 2019)**](https://dl.acm.org/doi/pdf/10.1145/3338906.3338959?casa_token=yUdftU3f9lsAAAAA:EZwKgJXupcwUN24ZPx4du8WQs0AwDJmU22etruM6BHmhJLG11LYdQ_4T68vRd3P9aeQ1L7ObLOVB_g)
+- [**AggrePlay: efficient record and replay of multi-threaded programs (ESEC/FSE 2019)**](https://www.cs.cityu.edu.hk/~wkchan/papers/fse2019-pobee+chan.pdf)
 - Compositional Non-Interference for Fine-Grained Concurrent Programs (S&P 2021)
 - [**Krace: Data Race Fuzzing for Kernel File Systems (S&P 2020)**](https://www.cc.gatech.edu/~mxu80/pubs/xu:krace.pdf)
 - ExpRace: Exploiting Kernel Races through Raising Interrupts (Usenix Sec 2021)
