@@ -133,7 +133,7 @@
 - **Reproducing/Dubugging**
     - [AggrePlay: efficient record and replay of multi-threaded programs (ESEC/FSE 2019)](https://www.cs.cityu.edu.hk/~wkchan/papers/fse2019-pobee+chan.pdf)
     - [D4: Fast Concurrency Debugging with Parallel Differential Analysis (PLDI 2018)](https://parasol.tamu.edu/people/jeff/academic/d4.pdf)
-    - [DESCRY: Reproducing System-level Concurrency Failures (ESEC/FSE 2017)](https://par.nsf.gov/servlets/purl/10075449)
+    - [DESCRY: Reproducing System-Level Concurrency Failures (ESEC/FSE 2017)](https://par.nsf.gov/servlets/purl/10075449)
     - [CONCURRIT: A Domain Specific Language for Reproducing Concurrency Bugs (PLDI 2013)](https://people.eecs.berkeley.edu/~ksen/papers/concurrit.pdf) -[[Source]](https://code.google.com/archive/p/concurrit/)
     - [Using_SCHED_DEADLINE](https://elinux.org/images/f/fe/Using_SCHED_DEADLINE.pdf)
 
