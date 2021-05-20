@@ -114,7 +114,9 @@
 	- [Efficient Scalable Thread-Safety-Violation Detection (SOSP 2019)](https://www.microsoft.com/en-us/research/uploads/prod/2019/09/sosp19-final193.pdf)
 	- [*Adaptive Randomized Scheduling for Concurrency Bug Detection (ICECCS 2019) (JAVA)](https://tjusail.github.io/paper/liu/2019/ICECCS19.pdf)
 	- [Partial Order Aware Concurrency Sampling (CAV 2018)](https://link.springer.com/chapter/10.1007%2F978-3-319-96142-2_20)
+	- [Promoting Secondary Orders of Event Pairs in Randomized Scheduling using a Randomized Stride (ASE 2017)](https://ieeexplore.ieee.org/document/8115685)
 	- [Efficient Detection of Thread Safety Violations via Coverage-Guided Generation of Concurrent Tests (ICSE 2017) (JAVA)](https://www.software-lab.org/publications/icse2017-covcon.pdf)
+	- [Radius Aware Probabilistic Testing of Deadlocks with Guarantees (ASE 2016)](https://ieeexplore.ieee.org/document/7582772)
 	- [SKI: Exposing Kernel Concurrency Bugs through Systematic Schedule Exploration (OSDI 2014)](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-fonseca.pdf)
 	- [Concurrency Testing Using Schedule Bounding: an Empirical Study (SCTBench) (PPoPP 2014)](https://www.doc.ic.ac.uk/~afd/homepages/papers/pdfs/2014/PPoPP.pdf) 
 	- [Efficient Concurrency-Bug Detection Across Inputs (OOPSLA 2013)](https://dl.acm.org/doi/10.1145/2544173.2509539)
@@ -126,6 +128,7 @@
 	- [Effective Testing for Concurrency Bugs (Thesis)](https://www.mpi-sws.org/tr/2015-004.pdf)
 	- [Concurrency: Testing isn’t good enough](http://www.contemplateltd.com/threadsafe/concurrency-testing-isnt-good-enough)
 	- [Maple: a coverage-driven testing tool for multithreaded programs (OOPSLA 2012)](https://dl.acm.org/doi/10.1145/2384616.2384651)
+	- [Stable Deterministic Multithreading through Schedule Memoization (OSDI 2010)](https://www.cs.columbia.edu/~junfeng/11sp-w4118/lectures/tern.pdf)
  
  - **Energy Accounting**
     - [Calm Energy Accounting for Multithreaded Java Applications (ESEC/FSE 2020)](http://www.cs.binghamton.edu/~davidl/papers/FSE20Preprint.pdf)
