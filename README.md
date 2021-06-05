@@ -6,6 +6,7 @@
 
 - [Satisfiability Modulo Ordering Consistency Theory for Multi-threaded Program Verification (PLDI 2021)](https://pldi21.sigplan.org/details/pldi-2021-papers/83/Satisfiability-Modulo-Ordering-Consistency-Theory-for-Multi-threaded-Program-Verifica)
 - [Canary: Practical Static Detection of Inter-Thread Value-Flow Bugs (PLDI 2021)](https://pldi21.sigplan.org/details/pldi-2021-papers/74/Canary-Practical-Static-Detection-of-Inter-Thread-Value-Flow-Bugs)
+- [GenMC: A Model Checker for Weak Memory Models (CAV 2021)](http://plv.mpi-sws.org/genmc/cav21-paper.pdf)
 - [Verifying Concurrent Search Structure Templates (PLDI 2020)](https://pldi20.sigplan.org/details/pldi-2020-papers/69/Verifying-Concurrent-Search-Structure-Templates)
 - [SmartTrack: Efficient Predictive Race Detection (PLDI 2020)](https://arxiv.org/pdf/1905.00494.pdf)
 - [Armada: Low-Effort Verification of High-Performance Concurrent Programs (PLDI 2020)](https://pldi20.sigplan.org/details/pldi-2020-papers/11/Armada-Low-Effort-Verification-of-High-Performance-Concurrent-Programs)
@@ -58,6 +59,7 @@
     - [Maximal Sound Predictive Race Detection with Control Flow Abstraction (PLDI 2014)](http://fsl.cs.illinois.edu/FSL/papers/2014/huang-meredith-rosu-2014-pldi/huang-meredith-rosu-2014-pldi-public.pdf)
 
 - **Verification**
+    - [GenMC: A Model Checker for Weak Memory Models (CAV 2021)](http://plv.mpi-sws.org/genmc/cav21-paper.pdf)
     - [Compositional Non-Interference for Fine-Grained Concurrent Programs (S&P 2021)](https://arxiv.org/abs/1910.00905)
     - [Context-Bounded Verification of Liveness Properties for Multithreaded Shared-Memory Programs (POPL 2021)](http://ramanathan.ts.gitlab.io/html-webpage/publications/POPL2021withAppendix.pdf)
     - [On Algebraic Abstractions for Concurrent Separation Logics (POPL 2021)](https://software.imdea.org/~aleks/popl21/popl21.pdf)
@@ -100,6 +102,7 @@
     - [Fuzzing Channel-Based Concurrency Runtimes using Types and Effects (OOPSLA 2020)](https://2020.splashcon.org/details/splash-2020-oopsla/62/Fuzzing-Channel-Based-Concurrency-Runtimes-using-Types-and-Effects)
     - [Muzz: Thread-aware Grey-box Fuzzing for Effective Bug Hunting in Multithreaded Programs (Usenix Sec 2020)](https://www.usenix.org/system/files/sec20-chen-hongxu.pdf)
     - [Krace: Data Race Fuzzing for Kernel File Systems (S&P 2020)](https://www.cc.gatech.edu/~mxu80/pubs/xu:krace.pdf)
+    - [Finding race conditions in Kernels: from fuzzing to symbolic exection (2020)](#finding-race-conditions-in-kernels-from-fuzzing-to-symbolic-exection-2020)
     - [ConFuzz—A Concurrency Fuzzer (2019)](https://wcventure.github.io/FuzzingPaper/Paper/AISC19_ConFuzz.pdf)
     - [Razzer: Finding Kernel Race Bugs through Fuzzing (S&P 2019)](https://lifeasageek.github.io/papers/jeong-razzer.pdf)
     - [A Heuristic Framework to Detect Concurrency Vulnerabilities (ACSAC 2018)](https://dl.acm.org/doi/pdf/10.1145/3274694.3274718?download=true)
