@@ -26,7 +26,7 @@
 - [ExpRace: Exploiting Kernel Races through Raising Interrupts (Usenix Sec 2021)](https://lifeasageek.github.io/papers/yoochan-exprace.pdf)
 - [Timeless Timing Attacks: Exploiting Concurrency to Leak Secrets over Remote Connections (Usenix Sec 2020)](https://www.usenix.org/conference/usenixsecurity20/presentation/van-goethem)
 - [Muzz: Thread-aware Grey-box Fuzzing for Effective Bug Hunting in Multithreaded Programs (Usenix Sec 2020)](https://www.usenix.org/system/files/sec20-chen-hongxu.pdf)
-- [PASAN: Detecting Peripheral Access Concurrency Bugs within Bare-Metal Embedded Applications (Usenix Sec 2020)](https://www.usenix.org/conference/usenixsecurity21/presentation/kim)
+- [PASAN: Detecting Peripheral Access Concurrency Bugs within Bare-Metal Embedded Applications (Usenix Sec 2021)](https://www.usenix.org/conference/usenixsecurity21/presentation/kim)
 - [Actor Concurrency Bugs: A Comprehensive Study on Symptoms, Root Causes, API Usages, and Differences (OOPSLA 2021)](https://mbagherz.bitbucket.io/lab-correct-software/papers/akka-actor-bugs.pdf)
 - [Learning-Based Controlled Concurrency Testing (OOPSLA 2020)](https://2020.splashcon.org/details/splash-2020-oopsla/106/Learning-Based-Controlled-Concurrency-Testing)
 - [Fuzzing Channel-Based Concurrency Runtimes using Types and Effects (OOPSLA 2020)](https://2020.splashcon.org/details/splash-2020-oopsla/62/Fuzzing-Channel-Based-Concurrency-Runtimes-using-Types-and-Effects)
