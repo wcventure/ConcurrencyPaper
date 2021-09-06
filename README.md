@@ -4,6 +4,8 @@
 
 ### Recent
 
+- [Detecting Concurrency Vulnerabilities Based on Partial Orders of Memory and Thread Events (ESEC/FSE 2020)](https://dl.acm.org/doi/abs/10.1145/3468264.3468572)
+- [Sound and Efficient Concurrency Bug Prediction (ESEC/FSE 2020)](https://dl.acm.org/doi/10.1145/3468264.3468549)
 - [Satisfiability Modulo Ordering Consistency Theory for Multi-threaded Program Verification (PLDI 2021)](https://pldi21.sigplan.org/details/pldi-2021-papers/83/Satisfiability-Modulo-Ordering-Consistency-Theory-for-Multi-threaded-Program-Verifica)
 - [Canary: Practical Static Detection of Inter-Thread Value-Flow Bugs (PLDI 2021)](https://pldi21.sigplan.org/details/pldi-2021-papers/74/Canary-Practical-Static-Detection-of-Inter-Thread-Value-Flow-Bugs)
 - [GenMC: A Model Checker for Weak Memory Models (CAV 2021)](http://plv.mpi-sws.org/genmc/cav21-paper.pdf)
@@ -94,6 +96,8 @@
     - [LOCKSMITH: context-sensitive correlation analysis for race detection (ACM SIGPLAN Notices)](https://dl.acm.org/doi/10.1145/1133255.1134019)
 
 - **Dynamic Detector/Sanitizer**
+    - [Detecting Concurrency Vulnerabilities Based on Partial Orders of Memory and Thread Events (ESEC/FSE 2020)](https://dl.acm.org/doi/abs/10.1145/3468264.3468572)
+    - [Sound and Efficient Concurrency Bug Prediction (ESEC/FSE 2020)](https://dl.acm.org/doi/10.1145/3468264.3468549)
     - [KARD: Lightweight Data Race Detection with Per-Thread Memory Protection (ASPLOS 2021)](https://asplos-conference.org/abstracts/asplos21-paper442-extended_abstract.pdf)
     - [Dynamic Analysis Method for Concurrency Bugs in Multi-process/Multi-thread Environments (IJPP 2020)](https://www.x-mol.com/paperRedirect/1265038487945584640)
     - [Detecting Concurrency Memory Corruption Vulnerabilities (FSE 2019)](http://www.is.cas.cn/ztzl2016/2020xsnh/2020nhhbzs/202009/W020200908636552224883.pdf)
