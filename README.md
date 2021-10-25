@@ -54,8 +54,8 @@
     - [Notes on concurrency bugs](https://danluu.com/concurrency-bugs/)
     - [Slides: CS636: Testing Concurrent Programs - CSE-IITK - IIT Kanpur](https://www.cse.iitk.ac.in/users/swarnendu/courses/spring2019-cs636/Testing%20Concurrent%20Programs.pdf)
 - **thesis**
-    -[Finding and Tolerating Concurrency Bugs (by Jie Yu)](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/99765/jieyu_1.pdf)
-    -[A Pragmatic Verification Approach for Concurrent Programs (by Truc Lam Nguyen)](https://eprints.soton.ac.uk/413593/1/thesis.pdf)
+    - [Finding and Tolerating Concurrency Bugs (by Jie Yu)](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/99765/jieyu_1.pdf)
+    - [A Pragmatic Verification Approach for Concurrent Programs (by Truc Lam Nguyen)](https://eprints.soton.ac.uk/413593/1/thesis.pdf)
 
 - **Maximal Causality Reduction**
     - [Speeding Up Maximal Causality Reduction with Static Dependency Analysis (ECOOP 2017)](https://huangshiyou.github.io/files/Huang-ECOOP-2017-16.pdf)
