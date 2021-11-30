@@ -26,6 +26,7 @@
 - [AggrePlay: efficient record and replay of multi-threaded programs (ESEC/FSE 2019)](https://www.cs.cityu.edu.hk/~wkchan/papers/fse2019-pobee+chan.pdf)
 - [Compositional Non-Interference for Fine-Grained Concurrent Programs (S&P 2021)](https://arxiv.org/abs/1910.00905)
 - [Krace: Data Race Fuzzing for Kernel File Systems (S&P 2020)](https://www.cc.gatech.edu/~mxu80/pubs/xu:krace.pdf)
+- [PASAN: Detecting Peripheral Access Concurrency Bugs within Bare-Metal Embedded Applications (Usenix Sec 2021)](https://www.usenix.org/conference/usenixsecurity21/presentation/kim)
 - [ExpRace: Exploiting Kernel Races through Raising Interrupts (Usenix Sec 2021)](https://lifeasageek.github.io/papers/yoochan-exprace.pdf)
 - [Timeless Timing Attacks: Exploiting Concurrency to Leak Secrets over Remote Connections (Usenix Sec 2020)](https://www.usenix.org/conference/usenixsecurity20/presentation/van-goethem)
 - [Muzz: Thread-aware Grey-box Fuzzing for Effective Bug Hunting in Multithreaded Programs (Usenix Sec 2020)](https://www.usenix.org/system/files/sec20-chen-hongxu.pdf)
@@ -84,6 +85,7 @@
     - [Inspect: A Runtime Model Checker For Mulithreaded C Programs (2008)](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.142.6260)
 
 - **Static Analysis/Detector**
+    - [PASAN: Detecting Peripheral Access Concurrency Bugs within Bare-Metal Embedded Applications (Usenix Sec 2021)](https://www.usenix.org/conference/usenixsecurity21/presentation/kim)
     - [Canary: Practical Static Detection of Inter-Thread Value-Flow Bugs (PLDI 2021)](https://pldi21.sigplan.org/details/pldi-2021-papers/74/Canary-Practical-Static-Detection-of-Inter-Thread-Value-Flow-Bugs)
     - [Low-overhead deadlock prediction (ICSE 2020)](https://dl.acm.org/doi/10.1145/3377811.3380367)
     - [Detection of Concurrency Errors in Multithreaded Applications Based on Static Source Code Analysis (Access 2021)](https://ieeexplore.ieee.org/document/9406024)
@@ -161,4 +163,3 @@
     - [A Case for an Interleaving Constrained Shared-Memory Multi-Processor](http://web.eecs.umich.edu/~nsatish/papers/ISCA-09-CPC.pdf) -[[Source]](https://github.com/jieyu/concurrency-bugs)
     - [The PARSEC benchmark suite: characterization and architectural implications (2008)](https://dl.acm.org/doi/pdf/10.1145/1454115.1454128) -[[Source]](https://parsec.cs.princeton.edu/index.htm)
     - [Experience with a Concurrency Bugs Benchmark (2008) (JAVA)](https://personal.cis.strath.ac.uk/marc.roper/TESTBENCH08/Papers/tzoref.pdf)
-    
