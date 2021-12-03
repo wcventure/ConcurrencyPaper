@@ -17,6 +17,7 @@
 - [Context-Bounded Verification of Liveness Properties for Multithreaded Shared-Memory Programs (POPL 2021)](http://ramanathan.ts.gitlab.io/html-webpage/publications/POPL2021withAppendix.pdf)
 - [On Algebraic Abstractions for Concurrent Separation Logics (POPL 2021)](https://software.imdea.org/~aleks/popl21/popl21.pdf)
 - [A True Positives Theorem for a Static Race Detector Extended Version (POPL 2019)](https://arxiv.org/pdf/1811.03503.pdf)
+- [Controlled Concurrency Testing via Periodical Scheduling (ICSE 2022)](https://sites.google.com/view/period-cct)
 - [Low-overhead deadlock prediction (ICSE 2020)](https://dl.acm.org/doi/10.1145/3377811.3380367)
 - [Parallel Refinement for Multi-Threaded Program Verification (ICSE 2019)](https://2019.icse-conferences.org/details/icse-2019-Technical-Papers/44/Parallel-Refinement-for-Multi-Threaded-Program-Verification)
 - [Towards Generating Thread-Safe Classes Automatically (ASE 2020)](https://conf.researchr.org/details/ase-2020/ase-2020-papers/70/Towards-Generating-Thread-Safe-Classes-Automatically)
@@ -120,6 +121,7 @@
     - [A Heuristic Framework to Detect Concurrency Vulnerabilities (ACSAC 2018)](https://dl.acm.org/doi/pdf/10.1145/3274694.3274718?download=true)
   
 - **Dynamic Testing** 
+    - [Controlled Concurrency Testing via Periodical Scheduling (ICSE 2022)](https://sites.google.com/view/period-cct)
     - [Learning-Based Controlled Concurrency Testing (OOPSLA 2020)](https://dl.acm.org/doi/pdf/10.1145/3428298)
     - [Symbolic Partial-Order Execution for Testing Multi-Threaded Programs (CAV 2020)](https://arxiv.org/abs/2005.06688)
     - [Timeless Timing Attacks: Exploiting Concurrency to Leak Secrets over Remote Connections (Usenix Sec 2020)](https://www.usenix.org/conference/usenixsecurity20/presentation/van-goethem)
