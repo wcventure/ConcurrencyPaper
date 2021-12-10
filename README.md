@@ -146,6 +146,7 @@
 	- [Concurrency: Testing isn’t good enough](http://www.contemplateltd.com/threadsafe/concurrency-testing-isnt-good-enough)
 	- [Maple: a coverage-driven testing tool for multithreaded programs (OOPSLA 2012)](https://dl.acm.org/doi/10.1145/2384616.2384651)
 	- [Stable Deterministic Multithreading through Schedule Memoization (OSDI 2010)](https://www.cs.columbia.edu/~junfeng/11sp-w4118/lectures/tern.pdf)
+	- [Model Checking for Programming Languages using VeriSoft (POPL 1997)](http://web.eecs.umich.edu/~bchandra/courses/papers/Godefroid_Verisoft.pdf), [[Slide]](http://pdfs.semanticscholar.org/a7c6/4af76f99dacb2e99a2edb384cb9d5947f583.pdf)
  
  - **Energy Accounting**
     - [Calm Energy Accounting for Multithreaded Java Applications (ESEC/FSE 2020)](http://www.cs.binghamton.edu/~davidl/papers/FSE20Preprint.pdf)
