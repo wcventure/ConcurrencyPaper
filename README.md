@@ -22,20 +22,21 @@
   - [Stateless Model Checking Concurrent Programs with Maximal Causality Reduction (PLDI 2015)](https://dl.acm.org/doi/pdf/10.1145/2813885.2737975)
   - [Maximal Sound Predictive Race Detection with Control Flow Abstraction (PLDI 2014)](http://fsl.cs.illinois.edu/FSL/papers/2014/huang-meredith-rosu-2014-pldi/huang-meredith-rosu-2014-pldi-public.pdf)
 
-- **Static Model Checking**
-  - [GenMC: A Model Checker for Weak Memory Models (CAV 2021)](http://plv.mpi-sws.org/genmc/cav21-paper.pdf)
+- **stateless Model Checking**
+  - [GenMC: A Model Checker for Weak Memory Models (CAV 2021)](http://plv.mpi-sws.org/genmc/cav21-paper.pdf) -[[Slide]](soundandcomplete.org/papers/PLDI2019/GenMC-Talk.pdf), [[Tool: GenMC]](plv.mpi-sws.org/genmc)
   - [Parallel graph-based stateless model checking (ATVA 2020)](https://link.springer.com/chapter/10.1007/978-3-030-59152-6_21)
   - [Effective lock handling in stateless model checking (OOPSLA 2019)](https://dl.acm.org/doi/abs/10.1145/3360599)
   - [Optimal stateless model checking under the release-acquire semantics (OOPSLA 2018)](https://dl.acm.org/doi/abs/10.1145/3276505)
-  - [Effective Stateless Model Checking for C/C++ Concurrency (POPL 2017)](https://plv.mpi-sws.org/rcmc/paper.pdf)
+  - [Effective Stateless Model Checking for C/C++ Concurrency (POPL 2017)](https://plv.mpi-sws.org/rcmc/paper.pdf) -[[Tool: RCMC]](https://plv.mpi-sws.org/rcmc)
   - [Stateless Model Checking with Data-Race Preemption Points (OOPSLA 2016)](https://dl.acm.org/doi/abs/10.1145/2983990.2984036)
   - [Maximally stateless model checking for concurrent bugs under relaxed memory models (ICSE 2016)](https://dl.acm.org/doi/abs/10.1145/2889160.2891042)
-  - [Stateless model checking for TSO and PSO (2016)](https://link.springer.com/article/10.1007/s00236-016-0275-0)
+  - [Stateless model checking for TSO and PSO (2016)](https://link.springer.com/article/10.1007/s00236-016-0275-0) -[[Tool: Nidhugg]](https://github.com/nidhugg/nidhugg)
   - [Stateless model checking for POWER (CAV 2016)](https://link.springer.com/chapter/10.1007/978-3-319-41540-6_8)
   - [SATCheck: SAT-directed stateless model checking for SC and TSO (2015)](https://dl.acm.org/doi/abs/10.1145/2858965.2814297)
   - [Fair stateless model checking (PLDI 2008)](https://dl.acm.org/doi/abs/10.1145/1379022.1375625)
   - [Stateless model checking of event-driven applications (OOPSLA 2015)](https://dl.acm.org/doi/abs/10.1145/2858965.2814282)
-  - [Model Checking for Programming Languages using VeriSoft (POPL 1997)](http://web.eecs.umich.edu/~bchandra/courses/papers/Godefroid_Verisoft.pdf), [[Slide]](http://pdfs.semanticscholar.org/a7c6/4af76f99dacb2e99a2edb384cb9d5947f583.pdf)
+  - [CDSchecker: checking concurrent data structures written with C/C++ atomics (OOPSLA 2013)](http://plrg.eecs.uci.edu/publications/c11modelcheck.pdf) -[[Tool: CDSchecker]](plrg.eecs.uci.edu/software_page/42-2)
+  - [Model Checking for Programming Languages using VeriSoft (POPL 1997)](http://web.eecs.umich.edu/~bchandra/courses/papers/Godefroid_Verisoft.pdf) -[[Slide]](http://pdfs.semanticscholar.org/a7c6/4af76f99dacb2e99a2edb384cb9d5947f583.pdf)
 
 - **Static Analysis/Predictive Analysis**
   - [Automatically Detecting and Fixing Concurrency Bugs in Go Software Systems (ASPLOS 2021)](https://asplos-conference.org/2021/abstracts/asplos21-paper1170-extended_abstract.pdf)
