@@ -44,6 +44,7 @@
   - [Thread-Modular Analysis of Release-Acquire Concurrency (SAS 2021)](https://link.springer.com/chapter/10.1007/978-3-030-88806-0_19)
   - [When Threads Meet Events: Efficient and Precise Static Race Detection with Origins (PLDI 2021)](https://o2lab.github.io/p/o2.pdf) -[[Tool: coderrect]](https://coderrect.com/)
   - [Canary: Practical Static Detection of Inter-Thread Value-Flow Bugs (PLDI 2021)](https://pldi21.sigplan.org/details/pldi-2021-papers/74/Canary-Practical-Static-Detection-of-Inter-Thread-Value-Flow-Bugs)
+  - [OpenRace: An Open Source Framework for Statically Detecting Data Races (SC 2021)](https://april1989.github.io/files/openrace.pdf) -[[Tool: OpenRace]](https://github.com/coderrect-inc/OpenRace)
   - [Low-overhead deadlock prediction (ICSE 2020)](https://dl.acm.org/doi/10.1145/3377811.3380367)
   - [Detection of Concurrency Errors in Multithreaded Applications Based on Static Source Code Analysis (Access 2021)](https://ieeexplore.ieee.org/document/9406024)
   - [OMPRacer: A Scalable and Precise Static RaceDetector for OpenMP Programs (SC 2020)](https://o2lab.github.io/p/ompracer.pdf) -[[Tool: OMPRacer]](https://github.com/parasol-aser/OMPRacer)
