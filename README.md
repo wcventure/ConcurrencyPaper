@@ -1,4 +1,4 @@
-# Concurrency Paper
+# Papers
 
 -------------------
 
@@ -45,6 +45,7 @@
   - [When Threads Meet Events: Efficient and Precise Static Race Detection with Origins (PLDI 2021)](https://o2lab.github.io/p/o2.pdf) -[[Tool: coderrect]](https://coderrect.com/)
   - [Canary: Practical Static Detection of Inter-Thread Value-Flow Bugs (PLDI 2021)](https://pldi21.sigplan.org/details/pldi-2021-papers/74/Canary-Practical-Static-Detection-of-Inter-Thread-Value-Flow-Bugs)
   - [OpenRace: An Open Source Framework for Statically Detecting Data Races (SC 2021)](https://april1989.github.io/files/openrace.pdf) -[[Tool: OpenRace]](https://github.com/coderrect-inc/OpenRace)
+  - [LLOV: A Fast Static Data-Race Checker for OpenMP Programs (TACO 2020)](https://sbjoshi.github.io/publication/llov-taco20/) -[[Slide]](https://llvm.org/devmtg/2020-02-23/slides/Utpal-LLOV.pdf), [[Tool: LLOV]](https://github.com/utpalbora/LLOV)
   - [Low-overhead deadlock prediction (ICSE 2020)](https://dl.acm.org/doi/10.1145/3377811.3380367)
   - [Detection of Concurrency Errors in Multithreaded Applications Based on Static Source Code Analysis (Access 2021)](https://ieeexplore.ieee.org/document/9406024)
   - [OMPRacer: A Scalable and Precise Static RaceDetector for OpenMP Programs (SC 2020)](https://o2lab.github.io/p/ompracer.pdf) -[[Tool: OMPRacer]](https://github.com/parasol-aser/OMPRacer)
@@ -52,10 +53,15 @@
   - [SmartTrack: Efficient Predictive Race Detection (PLDI 2020)](https://arxiv.org/pdf/1905.00494.pdf)
   - [A True Positives Theorem for a Static Race Detector Extended Version (POPL 2019)](https://arxiv.org/pdf/1811.03503.pdf)
   - [Effective Static Analysis of Concurrency Use-After-Free Bugs in Linux Device Drivers (Usenix Sec 2019)](https://www.usenix.org/system/files/atc19-bai.pdf)
+  - [Towards incremental static race detection in OpenMP programs (Correctness 2018)](https://ieeexplore.ieee.org/abstract/document/8638357/) -[[Slide]](https://correctness-workshop.github.io/2018/papers/swain.pdf)
   - [ConPredictor: Concurrency Defect Prediction in Real-World Applications (TSE 2018)](https://arxiv.org/pdf/1804.03589.pdf)
   - [RacerD: Compositional Static Race Detection (OOPSLA 2018)](https://ilyasergey.net/papers/racerd-oopsla18-preprint.pdf)
   - [OWL: Understanding and Detecting Concurrency Attacks (DSN 2018)](http://www.cs.columbia.edu/~junfeng/papers/owl-dsn18.pdf)
-  - [LOCKSMITH: context-sensitive correlation analysis for race detection (ACM SIGPLAN Notices)](https://dl.acm.org/doi/10.1145/1133255.1134019)
+  - [Using Polyhedral Analysis to Verify OpenMP Applications are Data Race Free (Correctness 2018)](https://www.osti.gov/servlets/purl/1570102)
+  - [Static race detection for device drivers: the Goblint approach (ASE 2016)](https://dl.acm.org/doi/10.1145/2970276.2970337) -[[Tool]](http://goblint.in.tum.de/downloads)
+  - [Polyhedral Optimizations of Explicitly Parallel Programs (PACT 2015)](https://wiki.rice.edu/confluence/download/attachments/4425835/Prasanth-PACT-Camera-ready.pdf)
+  - [Locksmith: Practical Static Race Detection for C. (TOPLAS 2011)](http://www.cs.umd.edu/projects/PL/locksmith/toplas11.pdf)
+  - [RELAY: Static Race Detection on Millions of Lines of Code (FSE 2007)](https://cseweb.ucsd.edu//~jvoung/race/fse2007.pdf) -[[Tool]](https://cseweb.ucsd.edu//~jvoung/race/)
 
 - **Dynamic Detector/Sanitizer**
   - [Snowboard: Finding Kernel Concurrency Bugs through Systematic Inter-thread Communication Analysis (SOSP 2021)](https://www.cs.purdue.edu/homes/sishuai/pdf/sosp21-snowboard.pdf)
@@ -97,6 +103,7 @@
   - [Partial Order Aware Concurrency Sampling (CAV 2018)](https://link.springer.com/chapter/10.1007%2F978-3-319-96142-2_20)
   - [Promoting Secondary Orders of Event Pairs in Randomized Scheduling using a Randomized Stride (ASE 2017)](https://ieeexplore.ieee.org/document/8115685)
   - [Efficient Detection of Thread Safety Violations via Coverage-Guided Generation of Concurrent Tests (ICSE 2017) (JAVA)](https://www.software-lab.org/publications/icse2017-covcon.pdf)
+  - [ProRace: Practical Data Race Detection for Production Use (ASPLOS  2017)](https://www3.cs.stonybrook.edu/~dongyoon/papers/ASPLOS-17-ProRace.pdf) -[[Tool: ProRace]](https://github.com/lzto/ProRace)
   - [Radius Aware Probabilistic Testing of Deadlocks with Guarantees (ASE 2016)](https://ieeexplore.ieee.org/document/7582772)
   - [SKI: Exposing Kernel Concurrency Bugs through Systematic Schedule Exploration (OSDI 2014)](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-fonseca.pdf)
   - [Concurrency Testing Using Schedule Bounding: an Empirical Study (SCTBench) (PPoPP 2014)](https://www.doc.ic.ac.uk/~afd/homepages/papers/pdfs/2014/PPoPP.pdf) 
