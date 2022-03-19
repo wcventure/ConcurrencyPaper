@@ -117,6 +117,7 @@
   - [Concurrency: Testing isn’t good enough](http://www.contemplateltd.com/threadsafe/concurrency-testing-isnt-good-enough)
   - [Maple: a coverage-driven testing tool for multithreaded programs (OOPSLA 2012)](https://dl.acm.org/doi/10.1145/2384616.2384651)
   - [Stable Deterministic Multithreading through Schedule Memoization (OSDI 2010)](https://www.cs.columbia.edu/~junfeng/11sp-w4118/lectures/tern.pdf)
+  - [Race Directed Random Testing of Concurrent Programs (PLDI 2008)](https://www.cs.columbia.edu/~junfeng/10fa-e6998/papers/racefuzz.pdf)
 
 - **Other Verification Techniques**
   - [Dynamic verification of c/c++ 11 concurrency over multi copy atomics (2021)](https://arxiv.org/pdf/2103.01553.pdf)
