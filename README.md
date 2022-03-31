@@ -88,7 +88,7 @@
 - **Dynamic Testing** 
   - [Efficiently Detecting Concurrency Bugs in Persistent Memory Programs (ASPLOS 2022)](https://csyhua.github.io/csyhua/hua-asplos22.pdf)
   - [Controlled Concurrency Testing via Periodical Scheduling (ICSE 2022)](https://sites.google.com/view/period-cct)
-  - Context-Sensitive and Directional Concurrency Fuzzing for Data-Race Detection (NDSS 2022)
+  - [Context-Sensitive and Directional Concurrency Fuzzing for Data-Race Detection (NDSS 2022)](https://www-users.cse.umn.edu/~kjlu/papers/conzzer.pdf)
   - [C4: the C compiler concurrency checker (ISSTA 2021)](https://dl.acm.org/doi/abs/10.1145/3460319.3469079)
   - [Nekara: Generalized Concurrency Testing (ASE 2021)](https://www.microsoft.com/en-us/research/uploads/prod/2021/09/nekara-ase2021.pdf) -[[Artifact]](https://github.com/pdeligia/nekara-artifact)，[[Tool]](https://github.com/microsoft/coyote-scheduler)，[[Slides]](https://www.dropbox.com/s/lq79dwhcbsbdwbv/Nekara%20-%20ASE%202021%20presentation.pdf?dl=0)， [[Video]](https://www.youtube.com/watch?v=UTWaUjsqV8s)
   - [Snowboard: Finding Kernel Concurrency Bugs through Systematic Inter-thread Communication Analysis (SOSP 2021)](https://dl.acm.org/doi/abs/10.1145/3477132.3483549)
