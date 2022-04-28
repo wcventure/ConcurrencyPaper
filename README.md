@@ -77,6 +77,7 @@
   - [ThreadSanitizer – data race detection in practice (2009)](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/35604.pdf)
 
 - **Fuzzing**
+  - [Context-Sensitive and Directional Concurrency Fuzzing for Data-Race Detection (NDSS 2022)](https://www-users.cse.umn.edu/~kjlu/papers/conzzer.pdf)
   - [Fuzzing Channel-Based Concurrency Runtimes using Types and Effects (OOPSLA 2020)](https://2020.splashcon.org/details/splash-2020-oopsla/62/Fuzzing-Channel-Based-Concurrency-Runtimes-using-Types-and-Effects)
   - [Muzz: Thread-aware Grey-box Fuzzing for Effective Bug Hunting in Multithreaded Programs (Usenix Sec 2020)](https://www.usenix.org/system/files/sec20-chen-hongxu.pdf)
   - [Krace: Data Race Fuzzing for Kernel File Systems (S&P 2020)](https://www.cc.gatech.edu/~mxu80/pubs/xu:krace.pdf)
