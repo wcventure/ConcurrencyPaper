@@ -10,6 +10,7 @@
   - [Learning from Mistates: A Comprehensive Study on Real World Concurrency Bug Characteristics (ASPLOS 2008)](https://www.cs.columbia.edu/~junfeng/09fa-e6998/papers/concurrency-bugs.pdf)
   - [Understanding, Detecting and Exposing Concurrency Bugs (2003)](https://core.ac.uk/download/pdf/4820747.pdf)
   - [Notes on concurrency bugs](https://danluu.com/concurrency-bugs/)
+  - [Slides: Dynamic Data Race Prediction](http://www.google.com/url?q=http%3A%2F%2Fumathur3.web.engr.illinois.edu%2Frace-prediction-tutorial.pdf&sa=D&sntz=1&usg=AOvVaw3nx81XoaU9iI1acBc876rk)
   - [Slides: CS636: Testing Concurrent Programs - CSE-IITK - IIT Kanpur](https://www.cse.iitk.ac.in/users/swarnendu/courses/spring2019-cs636/Testing%20Concurrent%20Programs.pdf)
 
 - **thesis**
@@ -38,7 +39,7 @@
   - [CDSchecker: checking concurrent data structures written with C/C++ atomics (OOPSLA 2013)](http://plrg.eecs.uci.edu/publications/c11modelcheck.pdf) -[[Tool: CDSchecker]](plrg.eecs.uci.edu/software_page/42-2)
   - [Model Checking for Programming Languages using VeriSoft (POPL 1997)](http://web.eecs.umich.edu/~bchandra/courses/papers/Godefroid_Verisoft.pdf) -[[Slide]](http://pdfs.semanticscholar.org/a7c6/4af76f99dacb2e99a2edb384cb9d5947f583.pdf)
 
-- **Static Analysis/Predictive Analysis**
+- **Static Analysis**
   - [Automatically Detecting and Fixing Concurrency Bugs in Go Software Systems (ASPLOS 2021)](https://asplos-conference.org/2021/abstracts/asplos21-paper1170-extended_abstract.pdf)
   - [PASAN: Detecting Peripheral Access Concurrency Bugs within Bare-Metal Embedded Applications (Usenix Sec 2021)](https://www.usenix.org/conference/usenixsecurity21/presentation/kim)
   - [Thread-Modular Analysis of Release-Acquire Concurrency (SAS 2021)](https://link.springer.com/chapter/10.1007/978-3-030-88806-0_19)
@@ -63,7 +64,7 @@
   - [Locksmith: Practical Static Race Detection for C. (TOPLAS 2011)](http://www.cs.umd.edu/projects/PL/locksmith/toplas11.pdf)
   - [RELAY: Static Race Detection on Millions of Lines of Code (FSE 2007)](https://cseweb.ucsd.edu//~jvoung/race/fse2007.pdf) -[[Tool]](https://cseweb.ucsd.edu//~jvoung/race/)
 
-- **Dynamic Detector/Sanitizer**
+- **Dynamic Analysis/Predictive Analysis**
   - [Snowboard: Finding Kernel Concurrency Bugs through Systematic Inter-thread Communication Analysis (SOSP 2021)](https://www.cs.purdue.edu/homes/sishuai/pdf/sosp21-snowboard.pdf)
   - [Detecting Concurrency Vulnerabilities Based on Partial Orders of Memory and Thread Events (ESEC/FSE 2021)](https://dl.acm.org/doi/abs/10.1145/3468264.3468572)
   - [Sound and Efficient Concurrency Bug Prediction (ESEC/FSE 2021)](https://dl.acm.org/doi/10.1145/3468264.3468549)
