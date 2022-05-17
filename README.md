@@ -13,9 +13,10 @@
   - [Slides: Dynamic Data Race Prediction](http://www.google.com/url?q=http%3A%2F%2Fumathur3.web.engr.illinois.edu%2Frace-prediction-tutorial.pdf&sa=D&sntz=1&usg=AOvVaw3nx81XoaU9iI1acBc876rk)
   - [Slides: CS636: Testing Concurrent Programs - CSE-IITK - IIT Kanpur](https://www.cse.iitk.ac.in/users/swarnendu/courses/spring2019-cs636/Testing%20Concurrent%20Programs.pdf)
 
-- **thesis**
+- **Thesis**
   - [Finding and Tolerating Concurrency Bugs (by Jie Yu)](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/99765/jieyu_1.pdf)
   - [A Pragmatic Verification Approach for Concurrent Programs (by Truc Lam Nguyen)](https://eprints.soton.ac.uk/413593/1/thesis.pdf)
+  - [Efficient On-the-Fly Data Race Detection in Multithreaded C++ Programs (2017)](https://www.academia.edu/download/42896968/MultiRace_efficient_on-the-fly_data_race20160221-25597-1qyz9lv.pdf)
 
 - **Maximal Causality Reduction**
   - [Speeding Up Maximal Causality Reduction with Static Dependency Analysis (ECOOP 2017)](https://huangshiyou.github.io/files/Huang-ECOOP-2017-16.pdf)
@@ -23,7 +24,7 @@
   - [Stateless Model Checking Concurrent Programs with Maximal Causality Reduction (PLDI 2015)](https://dl.acm.org/doi/pdf/10.1145/2813885.2737975)
   - [Maximal Sound Predictive Race Detection with Control Flow Abstraction (PLDI 2014)](http://fsl.cs.illinois.edu/FSL/papers/2014/huang-meredith-rosu-2014-pldi/huang-meredith-rosu-2014-pldi-public.pdf)
 
-- **stateless Model Checking**
+- **Stateless Model Checking**
   - [GenMC: A Model Checker for Weak Memory Models (CAV 2021)](http://plv.mpi-sws.org/genmc/cav21-paper.pdf) -[[Slide]](soundandcomplete.org/papers/PLDI2019/GenMC-Talk.pdf), [[Tool: GenMC]](plv.mpi-sws.org/genmc)
   - [Parallel graph-based stateless model checking (ATVA 2020)](https://link.springer.com/chapter/10.1007/978-3-030-59152-6_21)
   - [Effective lock handling in stateless model checking (OOPSLA 2019)](https://dl.acm.org/doi/abs/10.1145/3360599)
@@ -65,18 +66,23 @@
   - [RELAY: Static Race Detection on Millions of Lines of Code (FSE 2007)](https://cseweb.ucsd.edu//~jvoung/race/fse2007.pdf) -[[Tool]](https://cseweb.ucsd.edu//~jvoung/race/)
 
 - **Dynamic Analysis/Predictive Analysis**
+  - [Optimal Prediction of Synchronization-Preserving Races (POPL 2021)](http://umathur3.web.engr.illinois.edu/papers/sync-preserving-race-popl2021.pdf)
   - [Snowboard: Finding Kernel Concurrency Bugs through Systematic Inter-thread Communication Analysis (SOSP 2021)](https://www.cs.purdue.edu/homes/sishuai/pdf/sosp21-snowboard.pdf)
   - [Detecting Concurrency Vulnerabilities Based on Partial Orders of Memory and Thread Events (ESEC/FSE 2021)](https://dl.acm.org/doi/abs/10.1145/3468264.3468572)
   - [Sound and Efficient Concurrency Bug Prediction (ESEC/FSE 2021)](https://dl.acm.org/doi/10.1145/3468264.3468549)
   - [KARD: Lightweight Data Race Detection with Per-Thread Memory Protection (ASPLOS 2021)](https://asplos-conference.org/abstracts/asplos21-paper442-extended_abstract.pdf)
   - [ExpRace: Exploiting Kernel Races through Raising Interrupts (Usenix Sec 2021)](https://lifeasageek.github.io/papers/yoochan-exprace.pdf)
   - [Fast, sound, and effectively complete dynamic race prediction (POPL 2020)](https://dl.acm.org/doi/10.1145/3371085)
+  - [The Complexity of Dynamic Data Race Prediction (LICS 2020)](http://umathur3.web.engr.illinois.edu/papers/race-complexity-lics2020.pdf)
   - [Atomicity Checking in Linear Time using Vector Clocks (ASPLOS 2020)](https://dl.acm.org/doi/pdf/10.1145/3373376.3378475)
   - [Dynamic Analysis Method for Concurrency Bugs in Multi-process/Multi-thread Environments (IJPP 2020)](https://www.x-mol.com/paperRedirect/1265038487945584640)
   - [Detecting Concurrency Memory Corruption Vulnerabilities (ESEC/FSE 2019)](http://www.is.cas.cn/ztzl2016/2020xsnh/2020nhhbzs/202009/W020200908636552224883.pdf) 
   - [UFO: Predictive Concurrency Use-After-Free Detection (ICSE 2018)](http://acm.mementodepot.org/pubs/proceedings/acmconferences_3180155/3180155/3180155.3180225/3180155.3180225.pdf)
-  - [High-coverage, unbounded sound predictive race detection (2018)](https://dl.acm.org/doi/10.1145/3296979.3192385)
+  - [High-coverage, unbounded sound predictive race detection (ACM SIGPLAN Notices 2018)](https://dl.acm.org/doi/10.1145/3296979.3192385)
+  - [What Happens-After the First Race? Enhancing the Predictive Power of Happens-Before Based Dynamic Race Detection (OOPSLA 2018)](http://umathur3.web.engr.illinois.edu/papers/shb-oopsla2018.pdf)
   - [Dynamic Race Prediction in Linear Time (PLDI 2017)](https://dl.acm.org/doi/10.1145/3062341.3062374)
+  - [A dynamic predictive race detector for C/C++ programs (2017)](https://link.springer.com/content/pdf/10.1007/s11227-017-1996-8.pdf)
+  - [Efficient Data Race Detection for C/C++ Programs Using Dynamic Granularity (2014)](https://ieeexplore.ieee.org/document/6877300)
   - [Finding Complex Concurrency Bugs in Large Multi-Threaded Applications (EuroSys 2011)](https://www.gsd.inesc-id.pt/~rodrigo/pike_eurosys11.pdf)
   - [ThreadSanitizer – data race detection in practice (2009)](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/35604.pdf)
 
