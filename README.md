@@ -82,6 +82,7 @@
   - [What Happens-After the First Race? Enhancing the Predictive Power of Happens-Before Based Dynamic Race Detection (OOPSLA 2018)](http://umathur3.web.engr.illinois.edu/papers/shb-oopsla2018.pdf)
   - [Dynamic Race Prediction in Linear Time (PLDI 2017)](https://dl.acm.org/doi/10.1145/3062341.3062374)
   - [A dynamic predictive race detector for C/C++ programs (2017)](https://link.springer.com/content/pdf/10.1007/s11227-017-1996-8.pdf)
+  - [An Efficient Algorithm for On-the-Fly Data Race Detection Using an Epoch-Based Technique (2015)](http://dx.doi.org/10.1155/2015/205827)
   - [Efficient Data Race Detection for C/C++ Programs Using Dynamic Granularity (2014)](https://ieeexplore.ieee.org/document/6877300)
   - [Finding Complex Concurrency Bugs in Large Multi-Threaded Applications (EuroSys 2011)](https://www.gsd.inesc-id.pt/~rodrigo/pike_eurosys11.pdf)
   - [ThreadSanitizer – data race detection in practice (2009)](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/35604.pdf)
