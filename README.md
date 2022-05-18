@@ -82,6 +82,7 @@
   - [What Happens-After the First Race? Enhancing the Predictive Power of Happens-Before Based Dynamic Race Detection (OOPSLA 2018)](http://umathur3.web.engr.illinois.edu/papers/shb-oopsla2018.pdf)
   - [Dynamic Race Prediction in Linear Time (PLDI 2017)](https://dl.acm.org/doi/10.1145/3062341.3062374)
   - [A dynamic predictive race detector for C/C++ programs (2017)](https://link.springer.com/content/pdf/10.1007/s11227-017-1996-8.pdf)
+  - [Dynamic Race Detection for C++11 (2017)](https://www.doc.ic.ac.uk/~afd/homepages/papers/pdfs/2017/POPL.pdf)
   - [An Efficient Algorithm for On-the-Fly Data Race Detection Using an Epoch-Based Technique (2015)](http://dx.doi.org/10.1155/2015/205827)
   - [Efficient Data Race Detection for C/C++ Programs Using Dynamic Granularity (2014)](https://ieeexplore.ieee.org/document/6877300)
   - [Finding Complex Concurrency Bugs in Large Multi-Threaded Applications (EuroSys 2011)](https://www.gsd.inesc-id.pt/~rodrigo/pike_eurosys11.pdf)
@@ -97,18 +98,19 @@
   - [Razzer: Finding Kernel Race Bugs through Fuzzing (S&P 2019)](https://lifeasageek.github.io/papers/jeong-razzer.pdf)
   - [A Heuristic Framework to Detect Concurrency Vulnerabilities (ACSAC 2018)](https://dl.acm.org/doi/pdf/10.1145/3274694.3274718?download=true)
 
-- **Dynamic Testing** 
+- **Dynamic Testing/Systematic Testing** 
   - [Efficiently Detecting Concurrency Bugs in Persistent Memory Programs (ASPLOS 2022)](https://csyhua.github.io/csyhua/hua-asplos22.pdf)
   - [Controlled Concurrency Testing via Periodical Scheduling (ICSE 2022)](https://sites.google.com/view/period-cct)
-  - Context-Sensitive and Directional Concurrency Fuzzing for Data-Race Detection (NDSS 2022)
   - [C4: the C compiler concurrency checker (ISSTA 2021)](https://dl.acm.org/doi/abs/10.1145/3460319.3469079)
   - [Nekara: Generalized Concurrency Testing (ASE 2021)](https://www.microsoft.com/en-us/research/uploads/prod/2021/09/nekara-ase2021.pdf) -[[Artifact]](https://github.com/pdeligia/nekara-artifact)，[[Tool]](https://github.com/microsoft/coyote-scheduler)，[[Slides]](https://www.dropbox.com/s/lq79dwhcbsbdwbv/Nekara%20-%20ASE%202021%20presentation.pdf?dl=0)， [[Video]](https://www.youtube.com/watch?v=UTWaUjsqV8s)
   - [Snowboard: Finding Kernel Concurrency Bugs through Systematic Inter-thread Communication Analysis (SOSP 2021)](https://dl.acm.org/doi/abs/10.1145/3477132.3483549)
+  - [C11Tester: A Race Detector for C/C++ Atomics (ASPLOS 2021)](https://dl.acm.org/doi/pdf/10.1145/3445814.3446711)
   - [Language-agnostic systematic concurrency testing (2021)](https://microsoft.github.io/coyote/#overview/publications/)
   - [Learning-Based Controlled Concurrency Testing (OOPSLA 2020)](https://dl.acm.org/doi/pdf/10.1145/3428298)
   - [Symbolic Partial-Order Execution for Testing Multi-Threaded Programs (CAV 2020)](https://arxiv.org/abs/2005.06688)
   - [Timeless Timing Attacks: Exploiting Concurrency to Leak Secrets over Remote Connections (Usenix Sec 2020)](https://www.usenix.org/conference/usenixsecurity20/presentation/van-goethem)
   - [Exploiting Kernel Races through Taming Thread Interleaving (BlackHat USA 2020)](https://lifeasageek.github.io/papers/yoochan-exprace-bh.pdf)
+  - [Sparse record and replay with controlled scheduling (PLDI 2019)](https://dl.acm.org/doi/10.1145/3314221.3314635)
   - [Efficient Transaction-Based Deterministic Replay for Multi-threaded Programs (ASE 2019)](https://www.cs.cityu.edu.hk/~wkchan/papers/ase19-pobee+mei+chan.pdf)
   - [Efficient Scalable Thread-Safety-Violation Detection (SOSP 2019)](https://www.microsoft.com/en-us/research/uploads/prod/2019/09/sosp19-final193.pdf)
   - [Adaptive Randomized Scheduling for Concurrency Bug Detection (ICECCS 2019) (JAVA)](https://tjusail.github.io/paper/liu/2019/ICECCS19.pdf)
@@ -153,6 +155,7 @@
   - [Calm Energy Accounting for Multithreaded Java Applications (ESEC/FSE 2020)](http://www.cs.binghamton.edu/~davidl/papers/FSE20Preprint.pdf)
 
 - **Reproducing/Dubugging**
+  - [Sparse record and replay with controlled scheduling (PLDI 2019)](https://dl.acm.org/doi/10.1145/3314221.3314635)
   - [AggrePlay: efficient record and replay of multi-threaded programs (ESEC/FSE 2019)](https://www.cs.cityu.edu.hk/~wkchan/papers/fse2019-pobee+chan.pdf)
   - [D4: Fast Concurrency Debugging with Parallel Differential Analysis (PLDI 2018)](https://parasol.tamu.edu/people/jeff/academic/d4.pdf)
   - [DESCRY: Reproducing System-Level Concurrency Failures (ESEC/FSE 2017)](https://par.nsf.gov/servlets/purl/10075449)
