@@ -56,7 +56,6 @@
   - [Effective Static Analysis of Concurrency Use-After-Free Bugs in Linux Device Drivers (Usenix Sec 2019)](https://www.usenix.org/system/files/atc19-bai.pdf)
   - [Towards incremental static race detection in OpenMP programs (Correctness 2018)](https://ieeexplore.ieee.org/abstract/document/8638357/) -[[Slide]](https://correctness-workshop.github.io/2018/papers/swain.pdf)
   - [RacerD: Compositional Static Race Detection (OOPSLA 2018)](https://ilyasergey.net/papers/racerd-oopsla18-preprint.pdf)
-  - [OWL: Understanding and Detecting Concurrency Attacks (DSN 2018)](http://www.cs.columbia.edu/~junfeng/papers/owl-dsn18.pdf)
   - [Using Polyhedral Analysis to Verify OpenMP Applications are Data Race Free (Correctness 2018)](https://www.osti.gov/servlets/purl/1570102)
   - [Static race detection for device drivers: the Goblint approach (ASE 2016)](https://dl.acm.org/doi/10.1145/2970276.2970337) -[[Tool]](http://goblint.in.tum.de/downloads)
   - [Polyhedral Optimizations of Explicitly Parallel Programs (PACT 2015)](https://wiki.rice.edu/confluence/download/attachments/4425835/Prasanth-PACT-Camera-ready.pdf)
@@ -64,6 +63,7 @@
   - [RELAY: Static Race Detection on Millions of Lines of Code (FSE 2007)](https://cseweb.ucsd.edu//~jvoung/race/fse2007.pdf) -[[Tool]](https://cseweb.ucsd.edu//~jvoung/race/)
 
 - **Dynamic Analysis/Predictive Analysis**
+  - [Tolerate Control-Flow Changes for Sound Data Race Prediction (ICSE 2023)]
   - [Optimal Prediction of Synchronization-Preserving Races (POPL 2021)](http://umathur3.web.engr.illinois.edu/papers/sync-preserving-race-popl2021.pdf)
   - [Snowboard: Finding Kernel Concurrency Bugs through Systematic Inter-thread Communication Analysis (SOSP 2021)](https://www.cs.purdue.edu/homes/sishuai/pdf/sosp21-snowboard.pdf)
   - [Detecting Concurrency Vulnerabilities Based on Partial Orders of Memory and Thread Events (ESEC/FSE 2021)](https://dl.acm.org/doi/abs/10.1145/3468264.3468572)
@@ -97,8 +97,10 @@
   - [ConFuzz—A Concurrency Fuzzer (2019)](https://wcventure.github.io/FuzzingPaper/Paper/AISC19_ConFuzz.pdf)
   - [Razzer: Finding Kernel Race Bugs through Fuzzing (S&P 2019)](https://lifeasageek.github.io/papers/jeong-razzer.pdf)
   - [A Heuristic Framework to Detect Concurrency Vulnerabilities (ACSAC 2018)](https://dl.acm.org/doi/pdf/10.1145/3274694.3274718?download=true)
+  - [OWL: Understanding and Detecting Concurrency Attacks (DSN 2018)](http://www.cs.columbia.edu/~junfeng/papers/owl-dsn18.pdf)
 
-- **Dynamic Testing/Systematic Testing** 
+- **Dynamic Testing/Systematic Testing**
+  - [Waffle: Exposing Memory Ordering Bugs Efficiently with Active Delay Injection (EuroSys 2023)](https://www.microsoft.com/en-us/research/uploads/prod/2022/12/EuroSys23_camera_ready__WAFFLE_Exposing_Memory_Ordering_Bugs_Efficiently_with_Active_Delay_Injection.pdf)
   - [Efficiently Detecting Concurrency Bugs in Persistent Memory Programs (ASPLOS 2022)](https://csyhua.github.io/csyhua/hua-asplos22.pdf)
   - [Controlled Concurrency Testing via Periodical Scheduling (ICSE 2022)](https://sites.google.com/view/period-cct)
   - [C4: the C compiler concurrency checker (ISSTA 2021)](https://dl.acm.org/doi/abs/10.1145/3460319.3469079)
@@ -162,6 +164,10 @@
   - [CONCURRIT: A Domain Specific Language for Reproducing Concurrency Bugs (PLDI 2013)](https://people.eecs.berkeley.edu/~ksen/papers/concurrit.pdf) -[[Source]](https://code.google.com/archive/p/concurrit/)
   - [Using_SCHED_DEADLINE](https://elinux.org/images/f/fe/Using_SCHED_DEADLINE.pdf)
 
+- **Theory**
+  - [A Concurrent Program Logic with a Future and History (OOPSLA 2022)](https://arxiv.org/pdf/2207.02355.pdf)
+  - [Concurrent Size (OOPSLA 2022)](https://arxiv.org/abs/2209.07100)
+  
 - **Benchmarking**
   - [Gobench: A benchmark suite of real-world go concurrency bugs (CGO 2021)](https://ieeexplore.ieee.org/abstract/document/9370317)
   - [Actor Concurrency Bugs: A Comprehensive Study on Symptoms, Root Causes, API Usages, and Differences (OOPSLA 2021)](https://mbagherz.bitbucket.io/lab-correct-software/papers/akka-actor-bugs.pdf)
