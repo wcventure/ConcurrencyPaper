@@ -41,6 +41,7 @@
   - [Model Checking for Programming Languages using VeriSoft (POPL 1997)](http://web.eecs.umich.edu/~bchandra/courses/papers/Godefroid_Verisoft.pdf) -[[Slide]](http://pdfs.semanticscholar.org/a7c6/4af76f99dacb2e99a2edb384cb9d5947f583.pdf)
 
 - **Static Analysis**
+  - [Peahen: Fast and Precise Static Deadlock Detection via Context Reduction (FSE 2022)](https://2022.esec-fse.org/details/fse-2022-research-papers/32/Peahen-Fast-and-Precise-Static-Deadlock-Detection-via-Context-Reduction)
   - [Automatically Detecting and Fixing Concurrency Bugs in Go Software Systems (ASPLOS 2021)](https://asplos-conference.org/2021/abstracts/asplos21-paper1170-extended_abstract.pdf)
   - [PASAN: Detecting Peripheral Access Concurrency Bugs within Bare-Metal Embedded Applications (Usenix Sec 2021)](https://www.usenix.org/conference/usenixsecurity21/presentation/kim)
   - [Thread-Modular Analysis of Release-Acquire Concurrency (SAS 2021)](https://link.springer.com/chapter/10.1007/978-3-030-88806-0_19)
@@ -64,6 +65,7 @@
 
 - **Dynamic Analysis/Predictive Analysis**
   - [Tolerate Control-Flow Changes for Sound Data Race Prediction (ICSE 2023)]
+  - [Deadlock Prediction via Generalized Dependency (ISSTA 2022)](https://conf.researchr.org/details/issta-2022/issta-2022-technical-papers/16/Deadlock-Prediction-via-Generalized-Dependency)
   - [Optimal Prediction of Synchronization-Preserving Races (POPL 2021)](http://umathur3.web.engr.illinois.edu/papers/sync-preserving-race-popl2021.pdf)
   - [Snowboard: Finding Kernel Concurrency Bugs through Systematic Inter-thread Communication Analysis (SOSP 2021)](https://www.cs.purdue.edu/homes/sishuai/pdf/sosp21-snowboard.pdf)
   - [Detecting Concurrency Vulnerabilities Based on Partial Orders of Memory and Thread Events (ESEC/FSE 2021)](https://dl.acm.org/doi/abs/10.1145/3468264.3468572)
