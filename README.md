@@ -42,6 +42,7 @@
   - [Model Checking for Programming Languages using VeriSoft (POPL 1997)](http://web.eecs.umich.edu/~bchandra/courses/papers/Godefroid_Verisoft.pdf) -[[Slide]](http://pdfs.semanticscholar.org/a7c6/4af76f99dacb2e99a2edb384cb9d5947f583.pdf)
 
 - **Static Analysis**
+  - [HIPPODROME: Data Race Repair using Static Analysis Summaries (TOSEM 2023)](https://abhikrc.com/pdf/TOSEM23.pdf)
   - [Peahen: Fast and Precise Static Deadlock Detection via Context Reduction (FSE 2022)](https://2022.esec-fse.org/details/fse-2022-research-papers/32/Peahen-Fast-and-Precise-Static-Deadlock-Detection-via-Context-Reduction)
   - [Automatically Detecting and Fixing Concurrency Bugs in Go Software Systems (ASPLOS 2021)](https://asplos-conference.org/2021/abstracts/asplos21-paper1170-extended_abstract.pdf)
   - [PASAN: Detecting Peripheral Access Concurrency Bugs within Bare-Metal Embedded Applications (Usenix Sec 2021)](https://www.usenix.org/conference/usenixsecurity21/presentation/kim)
