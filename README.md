@@ -171,7 +171,8 @@
   - [A Concurrent Program Logic with a Future and History (OOPSLA 2022)](https://arxiv.org/pdf/2207.02355.pdf)
   - [Concurrent Size (OOPSLA 2022)](https://arxiv.org/abs/2209.07100)
   
-- **Benchmarking**
+- **Empirical Study/Benchmarking**
+  - [An Empirical Study on Concurrency Bugs in Interrupt-driven Embedded Software](https://2023.issta.org/details/issta-2023-technical-papers/99/An-Empirical-Study-on-Concurrency-Bugs-in-Interrupt-driven-Embedded-Software)
   - [Gobench: A benchmark suite of real-world go concurrency bugs (CGO 2021)](https://ieeexplore.ieee.org/abstract/document/9370317)
   - [Actor Concurrency Bugs: A Comprehensive Study on Symptoms, Root Causes, API Usages, and Differences (OOPSLA 2021)](https://mbagherz.bitbucket.io/lab-correct-software/papers/akka-actor-bugs.pdf)
   - [Concurrency testing using controlled schedulers: An empirical study (TOPC 2016)](https://dl.acm.org/doi/pdf/10.1145/2858651?casa_token=k7L1hBjlQeUAAAAA:6ZqKKosLEax0SKgNvKUiDLWRPO3e2ExV4FakJs9s5ohhIMXxtgyOMce17A-KUh3cHrcRe2UXl_Is) -[[Source]](https://github.com/mc-imperial/sctbench)
