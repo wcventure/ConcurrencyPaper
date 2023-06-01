@@ -3,6 +3,7 @@
 -------------------
 
 - **Survey/Review**
+  - [When Memory Corruption Met Concurrency: Vulnerabilities in Concurrent Programs (Access 2023)](https://ieeexplore.ieee.org/document/10114930)
   - [Understanding Concurrency Vulnerabilities in Linux Lernel (2022)](https://arxiv.org/abs/2212.05438)
   - [Understanding Real-World Concurrency Bugs in Go (ASPLOS 2019)](https://songlh.github.io/paper/go-study.pdf)
   - [A systematic survey on automated concurrency bug detection, exposing, avoidance, and fixing techniques (SQJ 2018)](https://dl.acm.org/doi/10.1007/s11219-017-9385-3)
